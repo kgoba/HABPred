@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="jar/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="jar/jfreechart-1.5.0-full.jar" sourcepath="jar/jfreechart-1.5.0-full.jar"/>
+	<classpathentry kind="lib" path="jar/jxmapviewer2.jar"/>
+	<classpathentry kind="lib" path="jar/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="jar/netcdfAll-4.6.11.jar"/>
+	<classpathentry kind="lib" path="jar/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jar/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="jar/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
